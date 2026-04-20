@@ -15,5 +15,5 @@ This repository contains a K-Nearest Neighbors (KNN) implementation to predict a
 5. **Model Optimization (K=30):** Retrained the model using the optimal value (K=30), which improved the overall model performance and reduced noise sensitivity.
 
 ### 📂 Files in this Repository
-* `02-K Nearest Neighbors Assignment.ipynb`: The main notebook containing the EDA, Elbow Method plot, and evaluation metrics.
+* `02-K-Nearest-Neighbors-Assignment.ipynb`: The main notebook containing the EDA, Elbow Method plot, and evaluation metrics.
 * `KNN_Project_Data`: The anonymized dataset used for model training.
